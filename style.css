@@ -40,8 +40,9 @@ aside {
 }
 
 footer {
-    position: fixed;
+
     bottom: 0;
     width: 960px;
     clear: both;
+    
 }
